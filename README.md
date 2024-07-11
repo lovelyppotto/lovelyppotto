@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-**bboddoluv/bboddoluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+끈기와 열정으로 공부하는 초보 개발자, 윤지원입니다!  
+항상 기쁨을 주는 귀여운 **뽀또**와 함께합니다🐱  
+~~프로필사진도봐주세요~~
 
 Here are some ideas to get you started:
 
