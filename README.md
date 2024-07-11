@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=lovelyppotto&reversal=false&textBg=false&fontSize=60&fontAlign=69&fontAlignY=43&animation=fadeIn&rotate=0&descSize=2)
+
 ## Hi there 👋
 
 **bboddoluv/bboddoluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
