@@ -44,8 +44,9 @@ Always with my cute cat PPOTTO, who always gives me joy
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 
 
-## Contact
-E-mail: yjiwon0530@gmail.com
+## SNS & Portfolio
+E-mail: yjiwon0530@gmail.com  
+Velog: https://velog.io/@yjiwon0530/posts
 
   </div>
 </div>
