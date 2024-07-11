@@ -17,11 +17,35 @@ Always with my cute cat PPOTTO, who always gives me joy
 <img src="https://ifh.cc/g/rhn4Aa.jpg" width="400" height="400" />
 
 ## Study
-🖥 I’m currently learning in SSAFY 12th
+🖥 I’m learning in SSAFY 12th
 
+  <div display=block>	
+  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yjiwon0530)](https://solved.ac/{yjiwon0530})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yjiwon0530)](https://solved.ac/{yjiwon0530})   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyppotto)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <br>
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <br>
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <br>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+
+
+## Contact
+E-mail: yjiwon0530@gmail.com
+
+  </div>
 </div>
